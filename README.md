@@ -1,7 +1,7 @@
 # Econ1680_TA_Project
 Text Analysis Project for Econ 1680:
 
-The purpose of this project is to scrape and analyze job descriptions in the US and figure out what key words and phrases can accurately predict the attached salary of the position. Sentiment Analysis will be conducted on the job descriptions, and Machine Learning algorithms will be implemented for the prediciton portion time permitting. I have used an API from Adzuna to scrape jobs data.
+The purpose of this project is to scrape and analyze job descriptions in the US and figure out what key words and phrases can accurately predict the attached salary of the position. Sentiment Analysis will be conducted on the job descriptions, and Machine Learning algorithms will be implemented for the prediciton portion. I have used an API from APIFY to scrape and download jobs data consisting of company name, job description, proposed salary, and more
 
 dependencies:
 
